@@ -347,7 +347,7 @@ footer p{
     padding-top: 2rem;
     padding-bottom: 6rem;
 }
-.fa-instagram{color: rgb(255, 0, 179);}
-.fa-twitter{color: rgb(0, 140, 255);}
-.fa-linkedin{color: rgb(76, 0, 255);}
-.fa-youtube{color: rgb(255, 0, 0);}
+.fa-instagram:hover{color: rgb(255, 0, 179);}
+.fa-twitter:hover{color: rgb(0, 140, 255);}
+.fa-linkedin:hover{color: rgb(76, 0, 255);}
+.fa-youtube:hover{color: rgb(255, 0, 0);}
