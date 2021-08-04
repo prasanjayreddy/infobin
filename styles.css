@@ -217,8 +217,7 @@ html{
 }
 .s-21{
     background: url(images/1yoga-unsplash.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
+    background-size: cover;
 }
 .s-22{
     background: url(images/barbell.jpg);
